@@ -1,0 +1,24 @@
+{
+  "name": "week-5-to-do-app-dengan-class-async-dom-teddy88888",
+  "version": "1.0.0",
+  "description": "Halo teman-teman, selamat datang di assignment kelima kalian. Di tahap ini, kita mulai masuk ke konsep yang lebih dekat dengan real-world application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BootcampWPH/week-5-to-do-app-dengan-class-async-dom-teddy88888.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BootcampWPH/week-5-to-do-app-dengan-class-async-dom-teddy88888/issues"
+  },
+  "homepage": "https://github.com/BootcampWPH/week-5-to-do-app-dengan-class-async-dom-teddy88888#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
